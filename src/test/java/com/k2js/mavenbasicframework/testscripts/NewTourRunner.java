@@ -182,6 +182,7 @@ public class NewTourRunner {
 
 				BrowserFactory.closeBrowser();
 		}
+		System.out.println("----------");
 	}
 
 }
