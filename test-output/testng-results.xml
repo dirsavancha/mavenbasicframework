@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41387" started-at="2019-11-14T03:32:41Z" finished-at="2019-11-14T03:33:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41387" started-at="2019-11-14T03:32:41Z" finished-at="2019-11-14T03:33:22Z">
+      <class name="com.k2js.mavenbasicframework.testscripts.NewTourRunner">
+        <test-method status="PASS" signature="verifyHomePageTitile()[pri:0, instance:com.k2js.mavenbasicframework.testscripts.NewTourRunner@6a41eaa2]" name="verifyHomePageTitile" duration-ms="16066" started-at="2019-11-14T03:32:41Z" finished-at="2019-11-14T03:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitile -->
+        <test-method status="PASS" signature="verifyConformationMessage()[pri:0, instance:com.k2js.mavenbasicframework.testscripts.NewTourRunner@6a41eaa2]" name="verifyConformationMessage" duration-ms="13061" started-at="2019-11-14T03:32:57Z" finished-at="2019-11-14T03:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConformationMessage -->
+        <test-method status="PASS" signature="verifyFlightDetails_Prefrences_Headings()[pri:0, instance:com.k2js.mavenbasicframework.testscripts.NewTourRunner@6a41eaa2]" name="verifyFlightDetails_Prefrences_Headings" duration-ms="12214" started-at="2019-11-14T03:33:10Z" finished-at="2019-11-14T03:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlightDetails_Prefrences_Headings -->
+      </class> <!-- com.k2js.mavenbasicframework.testscripts.NewTourRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
